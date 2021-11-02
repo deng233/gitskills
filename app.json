@@ -5,7 +5,7 @@
     "pages/logs/logs"
   ],
   "window":{
-    "backgroundTextStyle":"dark",
+    "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "DBAS",
     "navigationBarTextStyle":"black",
